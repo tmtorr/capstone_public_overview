@@ -46,3 +46,6 @@ It can also help in tracking user's location at every x intervals for user's own
 All-in-all the project was lots of fun! 
 </p>
 
+<p align="center">
+Please note : The source code is sadly set to private, however if you're interested in the technical aspects of this project I may be able to talk to my team members and show you the inner workings!
+</p>
