@@ -13,8 +13,8 @@ It can also help in tracking user's location at every x intervals for user's own
 <p align="center">Below you can see the UI of the multi-platform application, mobile and PC/Mac respectively :</p>
 
 <p align="center">
-  <img src="/img/SpotMeScreenshot1.png" alt="Main Menu Image" width="170" height="300">
-  <img src="/img/SpotMeScreenshot2.png" alt="Another Image" width="400" height="300">
+  <img src="/img/app1.png" alt="Main Menu Image" width="170" height="300">
+  <img src="/img/app2.png" alt="Another Image" width="400" height="300">
 </p>
 
 <p align="center">The app uses .NET 9 and C# for cross-platform compatibility </p>
