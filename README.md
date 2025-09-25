@@ -24,7 +24,7 @@ When a fall or collision is detected, the device triggers a vibration and starts
 <div> </div>
 
 <p align="center"> ... </p>
-<p align="center">Below you can see the prototype
+<p align="center">Below you can see the prototype, and here it is <a href="https://raw.githubusercontent.com/tmtorr/capstone_public_overview/refs/heads/main/img/label_d.png">labelled</a>
 <p align="center">
   <img src="/img/full_project.jpg" alt="Full project" width=50% height=50%">
 </p>
@@ -54,9 +54,13 @@ When a fall or collision is detected, the device triggers a vibration and starts
 
 <div> </div>
 <p align="center">
-All-in-all the project was a success and highly educational.
+All-in-all the project was a success and highly educational
 </p>
 
+<div> </div>
+
+<p align="center"> ... </p>
 <p align="center">
-Please note : The source code is set to private, however if you're interested in the technical aspects of this project I may be able to talk to my team members and show you the inner workings!
+  Please note : The source code is set to private, however if you're interested in the technical aspects of this project I may be able to talk to my team members and show you the inner workings!
 </p>
+
